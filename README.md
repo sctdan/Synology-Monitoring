@@ -1,13 +1,13 @@
 # SynologyBackupMonitoring
-  Monitor any number of Synology backup jobs across multiple tenants
-  SP List Status dashboard showing all jobs, last ran, last status
-  Daily backup status check, automatic ticket creation
-  Log all backup jobs in one location
-  Log all synology system/app alerts
-  Automatically creates tickets in Syncro for actionable alerts
-  If exposed to the web and IP blocking enabled, this will open a ticket with geolocation data so you can easily determine if it's a threat
-  SP List to define alert types to ignore
-  more...
+ * Monitor any number of Synology backup jobs across multiple tenants
+ * SP List Status dashboard showing all jobs, last ran, last status
+ * Daily backup status check, automatic ticket creation
+ * Log all backup jobs in one location
+ * Log all synology system/app alerts
+ * Automatically creates tickets in Syncro for actionable alerts
+ * If exposed to the web and IP blocking enabled, this will open a ticket with geolocation data so you can easily determine if it's a threat
+ * SP List to define alert types to ignore
+ *  more...
 
 
 ![image](https://user-images.githubusercontent.com/49880736/124128852-2bf7e200-da4b-11eb-8531-b60464d7c122.png)
